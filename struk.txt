@@ -1,0 +1,19 @@
+=================================
+=  STRUK TRANSAKSI FJ FOTOCOPY  =
+=================================
+Tanggal: 9/1/2025
+Waktu  : 20:28:12
+---------------------------------
+Nama       : Kacang
+Harga      : Rp 2000
+Jumlah     : 3
+Subtotal   : Rp 6000
+---------------------------------
+Nama       : TikTak
+Harga      : Rp 2000
+Jumlah     : 2
+Subtotal   : Rp 4000
+---------------------------------
+Total      : Rp 10000
+Pembayaran : Rp 20000
+Kembalian  : Rp 10000
